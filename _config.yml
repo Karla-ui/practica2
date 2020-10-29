@@ -11,8 +11,8 @@ links:
   - name:         Posts
     url:          /
     external:     false
-  - name:         About me
-    url:          /about
+  - name:         Karla Medina
+    url:          /Acerca De
     external:     false
 # ------------ CONFIGURABLE END ------------
 
