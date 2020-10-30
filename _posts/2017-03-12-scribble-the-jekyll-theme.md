@@ -18,9 +18,3 @@ Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit
 > **Los minerales:** En términos generales, son necesarios para prevenir la anemia (como el caso del hierro) y las infecciones (zinc), mejorar el rendimiento psicofísico (magnesio, fósforo, cobre y selenio), la mineralización ósea (calcio), la suficiencia cardiovascular, el mantenimiento del medio interno ( sodio, potasio, cloro), etc. Se requieren en pequeña cantidad. 
 
 ![Leyes de la alimentación](https://www.hiperxel.com//media/im/600x300-macronutrientes-e1549268826335-1549370397.png)
-
-
-## The end
-
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).
