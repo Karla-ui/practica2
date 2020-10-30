@@ -26,9 +26,6 @@ date: 2020-10-29 1:48:31
 
 * El consumo de bebidas alcohólicas debe ser responsable. Los niños, adolescentes y mujeres embarazadas no deben consumirlas. Evitarlas siempre al conducir
 
-
-![Leyes de la alimentación](https://bikefriendly.bike/wp-content/uploads/2020/03/infografia-dieta-cuarentena-deportistas-1-410x1024.png)
-
 <p align="center">
 
 ![Leyes de la alimentación](https://bikefriendly.bike/wp-content/uploads/2020/03/infografia-dieta-cuarentena-deportistas-1-410x1024.png)
