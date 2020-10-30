@@ -3,15 +3,15 @@ title:            "Tareas"
 description:      "Repositorio virtual para subir tareas"
 url:              https://karla-ui.github.io/practica2 # Site url, without a slash at the end.
 signoff:          "Karla Michelle Medina Cetina" # Your name
-facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+#facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+#google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+#share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
     url:          /
     external:     false
-  - name:         Karla Medina
+  - name:         Karla Medina Cetina
     url:          /Acerca De
     external:     false
 # ------------ CONFIGURABLE END ------------
