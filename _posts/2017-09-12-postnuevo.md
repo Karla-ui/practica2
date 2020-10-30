@@ -29,6 +29,12 @@ date: 2020-10-29 1:48:31
 
 ![Leyes de la alimentación](https://bikefriendly.bike/wp-content/uploads/2020/03/infografia-dieta-cuarentena-deportistas-1-410x1024.png)
 
+<p align="center">
+
+![Leyes de la alimentación](https://bikefriendly.bike/wp-content/uploads/2020/03/infografia-dieta-cuarentena-deportistas-1-410x1024.png)
+
+</p>
+
 
 
 >La nutrición es importante para todos. Combinada con la actividad física y un peso saludable, la buena alimentación es una forma excelente de ayudar a tu cuerpo a mantenerse fuerte y saludable.
